@@ -1,5 +1,5 @@
 import os
-with open(Crime.csv,r) as file
+with open("Crime.cs"v,r) as file
 	data=file.read()
 print(data)
 def crime():
@@ -13,5 +13,6 @@ def crime():
 		c=crime_count.append(data)
 		d=a.split()
 		f=b.split()
+		p=count.crime_count(
 		
 	
